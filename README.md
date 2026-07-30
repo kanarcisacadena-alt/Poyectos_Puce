@@ -53,4 +53,4 @@ Para poder ejecutar el juego directamente desde la terminal de Visual Studio Cod
 
 #### Ejecutarlo en el terminal de Visual Studio Code bajo el comando 
 
-love .
+    love .
