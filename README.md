@@ -50,7 +50,3 @@ Para poder ejecutar el juego directamente desde la terminal de Visual Studio Cod
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/kanarcisacadena-alt/Poyectos_Puce.git
-
-#### Ejecutarlo en el terminal de Visual Studio Code bajo el comando 
-
-    love .
